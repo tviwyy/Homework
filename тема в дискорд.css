@@ -1,0 +1,27 @@
+/**
+ * @name ♥02♥
+ * @author lazy ♥02
+ * @version auto updates
+ * @description Тема создана в генераторе https://vsthemes.org/generator/
+ * @source https://vsthemes.org/skins/discord/26299-02.html
+ * @authorLink https://vsthemes.org/user/lazy+%E2%99%A502/
+ * @authorId 33769
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.05;
+    --guildchanneltransparency: 0.05;
+    --memberlistransparency: 0;
+    --accentcolor: 255,66,66;
+    --background: url("https://vsthemes.org/uploads/posts/2021-02/1612881553_20200814225246-29a9f1e3.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
